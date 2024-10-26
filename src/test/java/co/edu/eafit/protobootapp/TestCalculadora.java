@@ -62,3 +62,4 @@ public class TestCalculadora {
         assertEquals(-64.0, calc.cubo(-4.0), 0);
     }
 }
+
